@@ -1,0 +1,7 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",
+    "vlucas/phpdotenv": "^5.3",
+    "tecnickcom/tcpdf": "^6.4"
+  }
+}
