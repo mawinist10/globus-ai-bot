@@ -3,7 +3,4 @@ services:
     name: globus-ai-bot
     env: docker
     plan: free
-    region: oregon
     dockerfilePath: ./Dockerfile
-    buildCommand: ""
-    startCommand: ""

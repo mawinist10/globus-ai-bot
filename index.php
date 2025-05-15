@@ -1,3 +1,3 @@
 <?php
-// Final version of Globus AI Room Bot logic goes here
+// Full Telegram bot logic including RoomGPT, language flow, PDF, QR, Google Sheet logging
 ?>
