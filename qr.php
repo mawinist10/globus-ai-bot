@@ -1,3 +1,3 @@
 <?php
-// QR code generation
+// Генерация QR-кодов по ссылкам
 ?>

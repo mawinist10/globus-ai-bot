@@ -1,4 +1,4 @@
-// Google Apps Script
+// Google Apps Script для логирования
 function doPost(e) {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Leads');
   var data = JSON.parse(e.postData.contents);

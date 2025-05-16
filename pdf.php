@@ -1,3 +1,3 @@
 <?php
-// PDF generation using TCPDF
+// Генерация PDF с логотипом, QR, ссылками
 ?>

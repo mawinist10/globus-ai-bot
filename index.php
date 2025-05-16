@@ -1,3 +1,3 @@
 <?php
-// Telegram Webhook handler + RoomGPT logic
+// Telegram webhook обработка и логика визуализации
 ?>

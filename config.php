@@ -1,3 +1,3 @@
 <?php
-// Tokens, UTM links, language settings
+// Конфигурация токенов, ссылок, языков
 ?>
