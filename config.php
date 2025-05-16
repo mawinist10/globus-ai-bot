@@ -1,3 +1,3 @@
 <?php
-// Configuration: tokens, UTM sources, style presets
+// Tokens, UTM links, language settings
 ?>

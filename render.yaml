@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: globus-ai-bot
+    name: globus-ai-room-bot
     env: docker
     plan: free
     dockerfilePath: ./Dockerfile
